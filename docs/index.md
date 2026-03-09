@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+# test: trigger sync-docs-index workflow
 ---
 
 <div style="text-align: center;">
